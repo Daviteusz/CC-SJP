@@ -1,3 +1,6 @@
+### Ważne
+- Znajdziesz tutaj tylko zmodyfikowaną wersję słownika pod KOReader. Jeśli zauważysz problemy z tym związane, zgłoś je.
+<hr>
 Creative Commons SJP<br/>
 <br/>
 Więcej informacji na:<br/>
